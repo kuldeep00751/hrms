@@ -1,0 +1,110 @@
+[
+    {
+        "model-name": "AcademicYear",
+        "resource-file": "academic_years.json"
+    },
+    {
+        "model-name": "AcademicProcess",
+        "resource-file": "academic_processes.json"
+    },
+    {
+        "model-name": "Campus",
+        "resource-file": "campuses.json"
+    },
+    {
+        "model-name": "SchoolSubject",
+        "resource-file": "school_subjects.json"
+    },
+    {
+        "model-name": "MatricType",
+        "resource-file": "matric_types.json"
+    },
+    {
+        "model-name": "GradingScale",
+        "resource-file": "grading_scales.json"
+    },
+    {
+        "model-name": "GenderType",
+        "resource-file": "gender_types.json"
+    },
+    {
+        "model-name": "NextOfKinRelationship",
+        "resource-file": "next_of_kin_relationships.json"
+    },
+    {
+        "model-name": "YearLevel",
+        "resource-file": "year_levels.json"
+    },
+    {
+        "model-name": "Qualification",
+        "resource-file": "qualifications.json"
+    },
+    {
+        "model-name": "Module",
+        "resource-file": "modules.json"
+    },
+    {
+        "model-name": "QualificationCampus",
+        "resource-file": "qualification_campuses.json"
+    },
+    {
+        "model-name": "QualificationStudyMode",
+        "resource-file": "qualification_study_modes.json"
+    },
+    {
+        "model-name": "QualificationSubject",
+        "resource-file": "qualification_subjects.json"
+    },
+    {
+        "model-name": "StudyMode",
+        "resource-file": "study_modes.json"
+    },
+    {
+        "model-name": "SubjectStudyMode",
+        "resource-file": "subject_study_modes.json"
+    },
+    {
+        "model-name": "SubjectStudyPeriod",
+        "resource-file": "subject_study_periods.json"
+    },
+    {
+        "model-name": "StudyPeriod",
+        "resource-file": "study_periods.json"
+    },
+    {
+        "model-name": "RequiredDocument",
+        "resource-file": "required_documents.json"
+    },
+    {
+        "model-name": "ApplicationType",
+        "resource-file": "application_types.json"
+    },
+    {
+        "model-name": "StudentType",
+        "resource-file": "student_types.json"
+    },
+    {
+        "model-name": "Title",
+        "resource-file": "titles.json"
+    },
+    {
+        "model-name": "NqfLevel",
+        "resource-file": "nqf_levels.json"
+    },
+    {
+        "model-name": "ModuleStudyPeriod",
+        "resource-file": "module_study_periods.json"
+    },
+    {
+        "model-name": "ModuleStudyMode",
+        "resource-file": "module_study_modes.json"
+    },
+    {
+        "model-name": "AcademicStructure",
+        "resource-file": "academic_structures.json"
+    },
+    {
+        "model-name": "EducationSystem",
+        "resource-file": "education_systems.json"
+    }
+]
